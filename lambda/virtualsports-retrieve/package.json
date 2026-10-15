@@ -1,0 +1,8 @@
+{
+    "name": "virtualsports-retrieve",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "@aws-sdk/client-bedrock-agent-runtime": "^3.700.0"
+    }
+}
